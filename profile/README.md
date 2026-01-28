@@ -1,6 +1,4 @@
 # Daisy Bio
-https://daisy-bio.slack.com/
-
 ![Daisy Bio Banner](banner.png)
 
 > **Our mission is to develop a low-cost portable PCR platform and an open-source community around it with the hope of opening up access to diagnostics in remote locations.**
