@@ -1,4 +1,5 @@
 # Daisy Bio
+https://daisy-bio.slack.com/
 
 ![Daisy Bio Banner](banner.png)
 
